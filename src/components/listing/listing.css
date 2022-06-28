@@ -1,0 +1,75 @@
+.filter{
+    height: 160vh;
+    width: 15%;
+    /* margin-left: 4%; */
+    position: relative;
+    left: 2%;
+    border: 2px solid orange;
+    text-align: center;
+}
+
+.checkbox{
+    width: 10%;
+    position: relative;
+    top: 3.50%;
+    left: -35%;
+}
+
+.products{
+    height: 200vh;
+    width: 80%;
+    position: absolute;
+    top: 14%;
+    left: 19%;
+    border:  2px solid gold;
+    float: right;
+}
+
+.product{
+    height: 45vh;
+    position: relative;
+    top: 1%;
+    border: 2px solid olivedrab;
+    margin-top: 1.60%;
+}
+
+.images img{
+    width: 20%;
+    height: 276px;
+}
+
+.product_details{
+    height: 40vh;
+    width: 40%;
+    position: relative;
+    top: -90%;
+    left: 22%;
+}
+
+.rate{
+    background-color: #388e3c;
+    width: 10%;
+    border-radius: 5%;
+    color: white;
+    text-align: center;
+}
+
+.price{
+    height: 40vh;
+    width: 70%;
+    position: relative;
+    top: -88%;
+    left: 110%;
+}
+
+.mobile_filter{
+    display: none;
+}
+
+.mob_product{
+    display: none;
+}
+
+.link{
+    color: black;
+}

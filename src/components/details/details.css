@@ -1,0 +1,165 @@
+/* product images starts */
+
+.product_images img{
+    height: 70vh;
+    width: 23%;
+    margin-top: 2%;
+    margin-left: 4%;
+    border: 2px solid orangered;
+}
+
+.product_description{
+    height: 155vh;
+    border: 2px solid saddlebrown;
+    width: 70%;
+    position: absolute;
+    top: 13%;
+    left: 28%;
+    float: right;
+}
+
+.pro_descp{
+    margin-left: 2%;
+    margin-top: 3%;
+}
+
+.offer{
+    margin-top: 6%;
+    margin-left: 2%;
+}
+
+.highlights{
+    margin-top: 3%;
+    margin-left: 2%;
+}
+
+.specification{
+    margin-top: 3%;
+    margin-left: 2%;
+}
+
+.add_to_cart{
+    /* margin-top: 40%;
+    margin-left: -35%; */
+    position: absolute;
+    top: 50%;
+    left: -35%;
+    width: 30%;
+    height: 10vh;
+    background-color: #ff9f00;
+    color: white;
+}
+
+.buy_now{
+    /* margin-top: 40%;
+    margin-left: -35%; */
+    position: absolute;
+    top: 58%;
+    left: -35%;
+    width: 30%;
+    height: 10vh;
+    background-color: orangered;
+    color: white;
+}
+
+.mobile_prod_images{
+    display: none;
+}
+
+.mob_prod_descp{
+    display: none;
+}
+
+.mob_highlights{
+    display: none;
+}
+
+.mob_specification{
+    display: none;
+}
+
+#mainContent{
+    height:500px;
+    width:90%;
+    margin-left:5%;
+    margin-top:2%;
+}
+.imgDiv{
+    height:400px;
+    width:40%;
+    float: left;
+    border:5px groove gray
+}
+.imgDiv > img {
+    height:400px;
+    width:100%; 
+}
+.contentDiv{
+    height:500px;
+    width:55%;
+    margin-left:2%;
+    float: left;
+    margin-top: -2%;
+}
+.feature_container{
+    width:100%;
+    display: inline-block;
+}
+.feature{
+    float: left;
+    margin-left:5%;
+}
+.imgIcon{
+    height:100px;
+    width:100px;
+    margin-left:2%
+}
+h2{
+    font-size: 35px;
+    color:green;
+}
+.fa-amazon{
+    font-size:25px;
+    color:orange
+}
+.checked{
+    color:red
+}
+.btn{
+    color:white;
+    margin-left:1%
+}
+
+.btn-proceed{
+    height:50px;
+    width:200px;
+    font-size:20px;
+    background-color:rgb(144, 145, 235)
+}
+
+.btn-back{
+    height:50px;
+    width:200px;
+    font-size:20px;
+    background-color:rgb(237, 120, 120)
+}
+
+.btn-success{
+    position: relative;
+    left: 220%;
+}
+
+.btn-danger{
+    position: relative;
+    left: 220%;
+}
+
+.col-md-11 {
+   margin-top: 50%;
+   width: 90%;
+}
+
+.col-md-12 {
+    /* margin-top: 40%; */
+    width: 90%;
+ }
